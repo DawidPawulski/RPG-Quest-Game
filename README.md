@@ -36,7 +36,7 @@ Open the project in VS Code. This is a .NET project.
 * C#
 * .NET Framework
 * Windows Forms
-* Thread
+* Threads
 
 ## Graphics
 
